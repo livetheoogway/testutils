@@ -28,7 +28,7 @@
   </p>
 </p>
 
-This is a collection of simple classes
+This is a collection of simple test utility classes
 
 ## Table of Contents
 
