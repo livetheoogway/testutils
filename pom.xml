@@ -46,6 +46,7 @@
         <metrics-core.version>4.2.19</metrics-core.version>
         <jackson-databind.version>2.15.2</jackson-databind.version>
         <junit.jupiter.version>5.8.2</junit.jupiter.version>
+        <sonar.version>3.9.0.2155</sonar.version>
     </properties>
 
     <dependencies>
